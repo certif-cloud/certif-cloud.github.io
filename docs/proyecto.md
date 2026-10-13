@@ -23,5 +23,6 @@ El módulo optativo **Computación en la Nube (COP055)** actúa como eje de coor
 
 **Advance Technology And Innovation Systems Cantabria** colabora con formación técnica para el profesorado y con la infraestructura cloud que utiliza el alumnado.
 
-!!! note "Financiación"
-    Los logotipos oficiales de la Consejería, del Ministerio y del FSE+ se incorporarán próximamente.
+## Financiación
+
+Proyecto seleccionado en la convocatoria **Innova+ Activa** de la Consejería de Educación, Formación Profesional y Universidades del Gobierno de Cantabria, con financiación del Ministerio de Educación, Formación Profesional y Deportes y cofinanciado por la Unión Europea (FSE+).

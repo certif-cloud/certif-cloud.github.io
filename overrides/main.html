@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+
+{% block footer %}
+<div class="logos-financiacion">
+  <img src="{{ 'assets/logos-oficiales.png' | url }}"
+       alt="Cofinanciado por la Unión Europea. Ministerio de Educación, Formación Profesional y Deportes. Fondos Europeos. Gobierno de Cantabria, Consejería de Educación, Formación Profesional y Universidades.">
+</div>
+{{ super() }}
+{% endblock %}
