@@ -6,6 +6,8 @@ copyright: © 2026 IES Miguel Herrero Pereda · Proyecto CERTIF-CLOUD
 theme:
   name: material
   custom_dir: overrides
+  logo: assets/logo-blanco.png
+  favicon: assets/favicon.png
   language: es
   features:
     - navigation.tabs
@@ -14,12 +16,12 @@ theme:
     - search.suggest
   palette:
     - scheme: default
-      primary: indigo
+      primary: custom
       toggle:
         icon: material/brightness-7
         name: Cambiar a modo oscuro
     - scheme: slate
-      primary: indigo
+      primary: custom
       toggle:
         icon: material/brightness-4
         name: Cambiar a modo claro

@@ -10,3 +10,20 @@
   height: auto;
   max-height: 70px;
 }
+
+/* Colores del proyecto, a partir del azul del logotipo.
+   Se usa un azul más oscuro en la cabecera para que el texto blanco se lea bien. */
+:root,
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color:        #1d6fa5;
+  --md-primary-fg-color--light: #6fc1e7;
+  --md-primary-fg-color--dark:  #15527a;
+}
+
+/* Logotipo en la portada */
+.logo-portada {
+  text-align: center;
+}
+.logo-portada img {
+  border-radius: 16px;
+}

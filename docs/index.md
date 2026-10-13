@@ -1,3 +1,7 @@
+<div class="logo-portada" markdown>
+![Logotipo de CERTIF-CLOUD: una nube con un escudo y una marca de verificación](assets/logo-certif-cloud.jpg){ width="240" }
+</div>
+
 # CERTIF-CLOUD
 
 Proyecto de innovación educativa del **IES Miguel Herrero Pereda** (Torrelavega, Cantabria) para el curso 2026/27.
