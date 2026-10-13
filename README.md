@@ -1,4 +1,3 @@
-# certif-cloud.github.io
 # CERTIF-CLOUD
 
 Proyecto de innovación educativa del **IES Miguel Herrero Pereda** (Torrelavega, Cantabria) para el curso 2026/27.
