@@ -1,0 +1,32 @@
+site_name: CERTIF-CLOUD
+site_url: https://certif-cloud.github.io/
+site_description: Proyecto de innovación educativa de 2.º ASIR - IES Miguel Herrero Pereda
+copyright: © 2026 IES Miguel Herrero Pereda · Proyecto CERTIF-CLOUD
+
+theme:
+  name: material
+  language: es
+  features:
+    - navigation.tabs
+    - navigation.top
+    - search.suggest
+  palette:
+    - scheme: default
+      primary: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Cambiar a modo oscuro
+    - scheme: slate
+      primary: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Cambiar a modo claro
+
+plugins:
+  - search:
+      lang: es
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
