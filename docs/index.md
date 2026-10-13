@@ -8,3 +8,10 @@ En esta web iremos publicando, por Escalas, los recursos educativos abiertos del
 
 !!! info "Web en construcción"
     Primeros recursos disponibles próximamente.
+
+## Por dónde empezar
+
+- [**El proyecto**](proyecto.md): qué es CERTIF-CLOUD y qué persigue.
+- [**Las Escalas**](escalas/index.md): la ruta de aprendizaje en seis etapas.
+- [**Recursos**](recursos.md): catálogo de los recursos educativos abiertos.
+- [**Guía docente**](guia-docente.md): cómo implantar la metodología en otro centro.

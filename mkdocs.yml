@@ -8,6 +8,7 @@ theme:
   language: es
   features:
     - navigation.tabs
+    - navigation.indexes
     - navigation.top
     - search.suggest
   palette:
@@ -21,6 +22,16 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Cambiar a modo claro
+
+nav:
+  - Inicio: index.md
+  - Proyecto: proyecto.md
+  - Escalas:
+      - escalas/index.md
+      - "Escala 1 · Fundamentos cloud": escalas/escala-1.md
+      - "Escala 2 · Redes y conectividad": escalas/escala-2.md
+  - Recursos: recursos.md
+  - Guía docente: guia-docente.md
 
 plugins:
   - search:
