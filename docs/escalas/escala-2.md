@@ -1,6 +1,6 @@
 # Escala 2 · Redes y conectividad en la nube
 
-**Resultado de aprendizaje (CIFC01):** RA2. Configura y gestiona redes y conectividad en la nube.
+**Resultado de aprendizaje (COP055):** RA2. Configura y gestiona redes y conectividad en la nube.
 
 ## Qué se trabaja
 
