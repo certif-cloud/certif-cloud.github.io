@@ -11,7 +11,7 @@
 
 ## Módulos implicados
 
-El módulo optativo **Computación en la Nube (COP055)** actúa como eje de coordinación, junto con los módulos de 2.º de ASIR:
+El módulo optativo **Computación en la Nube (CIFC01)**, que en la memoria de solicitud del proyecto figura con su código anterior (COP055), actúa como eje de coordinación, junto con los módulos de 2.º de ASIR:
 
 - Administración de Sistemas Gestores de Bases de Datos (ASGBD)
 - Administración de Sistemas Operativos (ASO)

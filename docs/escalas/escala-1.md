@@ -1,6 +1,6 @@
 # Escala 1 · Fundamentos de la computación en la nube
 
-**Resultado de aprendizaje (COP055):** RA1. Identifica y describe los componentes y modelos de servicio de la computación en la nube.
+**Resultado de aprendizaje (CIFC01):** RA1. Identifica y describe los componentes y modelos de servicio de la computación en la nube.
 
 ## Qué se trabaja
 
